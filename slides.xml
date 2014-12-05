@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slides>
+	<slide id="1" image="image1.jpg">slide 1 text here</slide>
+	<slide id="2" image="image2.jpg">slide 2 text here</slide>
+	<slide id="3" image="image3.jpg">slide 3 text here</slide>
+	<slide id="4" image="image4.jpg">slide 4 text here</slide>
+	<slide id="5" image="image5.jpg">slide 5 text here</slide>
+	<slide id="6" image="image6.jpg">slide 6 text here</slide>
+	<slide id="7" image="image7.jpg">slide 7 text here</slide>
+	<slide id="8" image="image8.jpg">slide 8 text here</slide>
+	<slide id="9" image="image9.jpg">slide 9 text here</slide>
+	<slide id="10" image="image10.jpg">slide 10 text here</slide>
+	
+</slides>
